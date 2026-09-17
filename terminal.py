@@ -1,3 +1,5 @@
+# Alteração realizada na branch terminal-cyber
+
 from colorama import init, Fore
 import time
 
